@@ -1,0 +1,19 @@
+version: "2"
+
+linters:
+  default: all
+  disable:
+    - staticcheck
+    - wsl
+    - wsl_v5
+    - nlreturn
+    - exhaustruct
+    - depguard
+    - varnamelen
+    - revive
+    - wrapcheck
+    - gochecknoglobals
+    - forbidigo
+    - mnd
+    - gochecknoinits
+
