@@ -1,0 +1,619 @@
+{"id":"aa","isIso":"true","display":"Afar"}
+{"id":"ab","isIso":"true","display":"Abkhazian"}
+{"id":"ace","isIso":"true","display":"Acehnese"}
+{"id":"ach","isIso":"true","display":"Acoli"}
+{"id":"ada","isIso":"true","display":"Adangme"}
+{"id":"ady","isIso":"true","display":"Adyghe"}
+{"id":"ae","isIso":"true","display":"Avestan"}
+{"id":"aeb","isIso":"true","display":"Tunisian Arabic"}
+{"id":"af","isIso":"true","display":"Afrikaans"}
+{"id":"afh","isIso":"true","display":"Afrihili"}
+{"id":"agq","isIso":"true","display":"Aghem"}
+{"id":"ain","isIso":"true","display":"Ainu"}
+{"id":"ak","isIso":"true","display":"Akan"}
+{"id":"akk","isIso":"true","display":"Akkadian"}
+{"id":"akz","isIso":"true","display":"Alabama"}
+{"id":"ale","isIso":"true","display":"Aleut"}
+{"id":"aln","isIso":"true","display":"Gheg Albanian"}
+{"id":"alt","isIso":"true","display":"Southern Altai"}
+{"id":"am","isIso":"true","display":"Amharic"}
+{"id":"an","isIso":"true","display":"Aragonese"}
+{"id":"ang","isIso":"true","display":"Old English"}
+{"id":"anp","isIso":"true","display":"Angika"}
+{"id":"apw","isIso":"true","display":"Apache, Western"}
+{"id":"ar","isIso":"true","display":"Arabic"}
+{"id":"arc","isIso":"true","display":"Aramaic"}
+{"id":"arn","isIso":"true","display":"Mapuche"}
+{"id":"aro","isIso":"true","display":"Araona"}
+{"id":"arp","isIso":"true","display":"Arapaho"}
+{"id":"arq","isIso":"true","display":"Algerian Arabic"}
+{"id":"ars","isIso":"true","display":"Arabic, Najdi"}
+{"id":"arw","isIso":"true","display":"Arawak"}
+{"id":"ary","isIso":"true","display":"Moroccan Arabic"}
+{"id":"arz","isIso":"true","display":"Egyptian Arabic"}
+{"id":"as","isIso":"true","display":"Assamese"}
+{"id":"asa","isIso":"true","display":"Asu"}
+{"id":"ase","isIso":"true","display":"American Sign Language"}
+{"id":"ast","isIso":"true","display":"Asturian"}
+{"id":"av","isIso":"true","display":"Avaric"}
+{"id":"avk","isIso":"true","display":"Kotava"}
+{"id":"awa","isIso":"true","display":"Awadhi"}
+{"id":"ay","isIso":"true","display":"Aymara"}
+{"id":"az","isIso":"true","display":"Azerbaijani"}
+{"id":"ba","isIso":"true","display":"Bashkir"}
+{"id":"bal","isIso":"true","display":"Baluchi"}
+{"id":"ban","isIso":"true","display":"Balinese"}
+{"id":"bar","isIso":"true","display":"Bavarian"}
+{"id":"bas","isIso":"true","display":"Basaa"}
+{"id":"bax","isIso":"true","display":"Bamun"}
+{"id":"bbc","isIso":"true","display":"Batak Toba"}
+{"id":"bbj","isIso":"true","display":"Ghomala"}
+{"id":"be","isIso":"true","display":"Belarusian"}
+{"id":"bej","isIso":"true","display":"Beja"}
+{"id":"bem","isIso":"true","display":"Bemba"}
+{"id":"ber","isIso":"true","display":"Amazigh"}
+{"id":"bew","isIso":"true","display":"Betawi"}
+{"id":"bez","isIso":"true","display":"Bena"}
+{"id":"bfd","isIso":"true","display":"Bafut"}
+{"id":"bfq","isIso":"true","display":"Badaga"}
+{"id":"bg","isIso":"true","display":"Bulgarian"}
+{"id":"bgc","isIso":"true","display":"Haryanvi"}
+{"id":"bgn","isIso":"true","display":"Western Balochi"}
+{"id":"bho","isIso":"true","display":"Bhojpuri"}
+{"id":"bi","isIso":"true","display":"Bislama"}
+{"id":"bik","isIso":"true","display":"Bikol"}
+{"id":"bin","isIso":"true","display":"Bini"}
+{"id":"bjn","isIso":"true","display":"Banjar"}
+{"id":"bkm","isIso":"true","display":"Kom"}
+{"id":"bla","isIso":"true","display":"Siksiká"}
+{"id":"blo","isIso":"true","display":"Anii"}
+{"id":"bm","isIso":"true","display":"Bambara"}
+{"id":"bn","isIso":"true","display":"Bangla"}
+{"id":"bo","isIso":"true","display":"Tibetan"}
+{"id":"bpy","isIso":"true","display":"Bishnupriya"}
+{"id":"bqi","isIso":"true","display":"Bakhtiari"}
+{"id":"br","isIso":"true","display":"Breton"}
+{"id":"bra","isIso":"true","display":"Braj"}
+{"id":"brh","isIso":"true","display":"Brahui"}
+{"id":"brx","isIso":"true","display":"Bodo"}
+{"id":"bs","isIso":"true","display":"Bosnian"}
+{"id":"bss","isIso":"true","display":"Akoose"}
+{"id":"bua","isIso":"true","display":"Buriat"}
+{"id":"bug","isIso":"true","display":"Buginese"}
+{"id":"bum","isIso":"true","display":"Bulu"}
+{"id":"byn","isIso":"true","display":"Blin"}
+{"id":"byv","isIso":"true","display":"Medumba"}
+{"id":"ca","isIso":"true","display":"Catalan"}
+{"id":"cad","isIso":"true","display":"Caddo"}
+{"id":"car","isIso":"true","display":"Carib"}
+{"id":"cay","isIso":"true","display":"Cayuga"}
+{"id":"cch","isIso":"true","display":"Atsam"}
+{"id":"ccp","isIso":"true","display":"Chakma"}
+{"id":"ce","isIso":"true","display":"Chechen"}
+{"id":"ceb","isIso":"true","display":"Cebuano"}
+{"id":"cgg","isIso":"true","display":"Chiga"}
+{"id":"ch","isIso":"true","display":"Chamorro"}
+{"id":"chb","isIso":"true","display":"Chibcha"}
+{"id":"chg","isIso":"true","display":"Chagatai"}
+{"id":"chk","isIso":"true","display":"Chuukese"}
+{"id":"chm","isIso":"true","display":"Mari"}
+{"id":"chn","isIso":"true","display":"Chinook Jargon"}
+{"id":"cho","isIso":"true","display":"Choctaw"}
+{"id":"chp","isIso":"true","display":"Chipewyan"}
+{"id":"chr","isIso":"true","display":"Cherokee"}
+{"id":"chy","isIso":"true","display":"Cheyenne"}
+{"id":"cic","isIso":"true","display":"Chickasaw"}
+{"id":"ckb","isIso":"true","display":"Kurdish, Sorani"}
+{"id":"co","isIso":"true","display":"Corsican"}
+{"id":"cop","isIso":"true","display":"Coptic"}
+{"id":"cps","isIso":"true","display":"Capiznon"}
+{"id":"cr","isIso":"true","display":"Cree"}
+{"id":"crh","isIso":"true","display":"Crimean Tatar"}
+{"id":"cs","isIso":"true","display":"Czech"}
+{"id":"csb","isIso":"true","display":"Kashubian"}
+{"id":"cst","isIso":"true","display":"Chochenyo"}
+{"id":"csw","isIso":"true","display":"Swampy Cree"}
+{"id":"cu","isIso":"true","display":"Church Slavic"}
+{"id":"cv","isIso":"true","display":"Chuvash"}
+{"id":"cy","isIso":"true","display":"Welsh"}
+{"id":"da","isIso":"true","display":"Danish"}
+{"id":"dak","isIso":"true","display":"Dakota"}
+{"id":"dar","isIso":"true","display":"Dargwa"}
+{"id":"dav","isIso":"true","display":"Taita"}
+{"id":"de","isIso":"true","display":"German"}
+{"id":"del","isIso":"true","display":"Delaware"}
+{"id":"den","isIso":"true","display":"Slave"}
+{"id":"dgr","isIso":"true","display":"Dogrib"}
+{"id":"din","isIso":"true","display":"Dinka"}
+{"id":"dje","isIso":"true","display":"Zarma"}
+{"id":"doi","isIso":"true","display":"Dogri"}
+{"id":"dsb","isIso":"true","display":"Lower Sorbian"}
+{"id":"dtp","isIso":"true","display":"Central Dusun"}
+{"id":"dua","isIso":"true","display":"Duala"}
+{"id":"dum","isIso":"true","display":"Middle Dutch"}
+{"id":"dv","isIso":"true","display":"Dhivehi"}
+{"id":"dyo","isIso":"true","display":"Jola-Fonyi"}
+{"id":"dyu","isIso":"true","display":"Dyula"}
+{"id":"dz","isIso":"true","display":"Dzongkha"}
+{"id":"dzg","isIso":"true","display":"Dazaga"}
+{"id":"ebu","isIso":"true","display":"Embu"}
+{"id":"ee","isIso":"true","display":"Ewe"}
+{"id":"efi","isIso":"true","display":"Efik"}
+{"id":"egl","isIso":"true","display":"Emilian"}
+{"id":"egy","isIso":"true","display":"Ancient Egyptian"}
+{"id":"eka","isIso":"true","display":"Ekajuk"}
+{"id":"el","isIso":"true","display":"Greek"}
+{"id":"elx","isIso":"true","display":"Elamite"}
+{"id":"en","isIso":"true","display":"English"}
+{"id":"enm","isIso":"true","display":"Middle English"}
+{"id":"eo","isIso":"true","display":"Esperanto"}
+{"id":"es","isIso":"true","display":"Spanish"}
+{"id":"esu","isIso":"true","display":"Central Yupik"}
+{"id":"et","isIso":"true","display":"Estonian"}
+{"id":"eu","isIso":"true","display":"Basque"}
+{"id":"ewo","isIso":"true","display":"Ewondo"}
+{"id":"ext","isIso":"true","display":"Extremaduran"}
+{"id":"fa","isIso":"true","display":"Persian"}
+{"id":"fan","isIso":"true","display":"Fang"}
+{"id":"fat","isIso":"true","display":"Fanti"}
+{"id":"ff","isIso":"true","display":"Fula"}
+{"id":"fi","isIso":"true","display":"Finnish"}
+{"id":"fil","isIso":"true","display":"Filipino"}
+{"id":"fit","isIso":"true","display":"Tornedalen Finnish"}
+{"id":"fj","isIso":"true","display":"Fijian"}
+{"id":"fo","isIso":"true","display":"Faroese"}
+{"id":"fon","isIso":"true","display":"Fon"}
+{"id":"fr","isIso":"true","display":"French"}
+{"id":"frc","isIso":"true","display":"Cajun French"}
+{"id":"frm","isIso":"true","display":"Middle French"}
+{"id":"fro","isIso":"true","display":"Old French"}
+{"id":"frp","isIso":"true","display":"Arpitan"}
+{"id":"frr","isIso":"true","display":"Northern Frisian"}
+{"id":"frs","isIso":"true","display":"Eastern Frisian"}
+{"id":"fur","isIso":"true","display":"Friulian"}
+{"id":"fy","isIso":"true","display":"Western Frisian"}
+{"id":"ga","isIso":"true","display":"Irish"}
+{"id":"gaa","isIso":"true","display":"Ga"}
+{"id":"gag","isIso":"true","display":"Gagauz"}
+{"id":"gan","isIso":"true","display":"Gan Chinese"}
+{"id":"gay","isIso":"true","display":"Gayo"}
+{"id":"gba","isIso":"true","display":"Gbaya"}
+{"id":"gbz","isIso":"true","display":"Zoroastrian Dari"}
+{"id":"gd","isIso":"true","display":"Scottish Gaelic"}
+{"id":"gez","isIso":"true","display":"Geez"}
+{"id":"gil","isIso":"true","display":"Gilbertese"}
+{"id":"gl","isIso":"true","display":"Galician"}
+{"id":"glk","isIso":"true","display":"Gilaki"}
+{"id":"gmh","isIso":"true","display":"Middle High German"}
+{"id":"gn","isIso":"true","display":"Guarani"}
+{"id":"goh","isIso":"true","display":"Old High German"}
+{"id":"gom","isIso":"true","display":"Konkani"}
+{"id":"gon","isIso":"true","display":"Gondi"}
+{"id":"gor","isIso":"true","display":"Gorontalo"}
+{"id":"got","isIso":"true","display":"Gothic"}
+{"id":"grb","isIso":"true","display":"Grebo"}
+{"id":"grc","isIso":"true","display":"Ancient Greek"}
+{"id":"gsw","isIso":"true","display":"Swiss German"}
+{"id":"gu","isIso":"true","display":"Gujarati"}
+{"id":"guc","isIso":"true","display":"Wayuu"}
+{"id":"gur","isIso":"true","display":"Frafra"}
+{"id":"guz","isIso":"true","display":"Gusii"}
+{"id":"gv","isIso":"true","display":"Manx"}
+{"id":"gwi","isIso":"true","display":"Gwichʼin"}
+{"id":"ha","isIso":"true","display":"Hausa"}
+{"id":"hai","isIso":"true","display":"Haida"}
+{"id":"hak","isIso":"true","display":"Hakka Chinese"}
+{"id":"haw","isIso":"true","display":"Hawaiian"}
+{"id":"hch","isIso":"true","display":"Wixárika"}
+{"id":"he","isIso":"true","display":"Hebrew"}
+{"id":"hi","isIso":"true","display":"Hindi"}
+{"id":"hif","isIso":"true","display":"Fiji Hindi"}
+{"id":"hil","isIso":"true","display":"Hiligaynon"}
+{"id":"hit","isIso":"true","display":"Hittite"}
+{"id":"hmn","isIso":"true","display":"Hmong"}
+{"id":"ho","isIso":"true","display":"Hiri Motu"}
+{"id":"hr","isIso":"true","display":"Croatian"}
+{"id":"hsb","isIso":"true","display":"Upper Sorbian"}
+{"id":"hsn","isIso":"true","display":"Xiang Chinese"}
+{"id":"ht","isIso":"true","display":"Haitian Creole"}
+{"id":"hu","isIso":"true","display":"Hungarian"}
+{"id":"hup","isIso":"true","display":"Hupa"}
+{"id":"hy","isIso":"true","display":"Armenian"}
+{"id":"hz","isIso":"true","display":"Herero"}
+{"id":"ia","isIso":"true","display":"Interlingua"}
+{"id":"iba","isIso":"true","display":"Iban"}
+{"id":"ibb","isIso":"true","display":"Ibibio"}
+{"id":"id","isIso":"true","display":"Indonesian"}
+{"id":"ie","isIso":"true","display":"Interlingue"}
+{"id":"ig","isIso":"true","display":"Igbo"}
+{"id":"ii","isIso":"true","display":"Liangshan Yi"}
+{"id":"ik","isIso":"true","display":"Inupiaq"}
+{"id":"ilo","isIso":"true","display":"Iloko"}
+{"id":"inh","isIso":"true","display":"Ingush"}
+{"id":"io","isIso":"true","display":"Ido"}
+{"id":"is","isIso":"true","display":"Icelandic"}
+{"id":"isc","isIso":"true","display":"Iskonawa"}
+{"id":"it","isIso":"true","display":"Italian"}
+{"id":"iu","isIso":"true","display":"Inuktitut"}
+{"id":"izh","isIso":"true","display":"Ingrian"}
+{"id":"ja","isIso":"true","display":"Japanese"}
+{"id":"jam","isIso":"true","display":"Jamaican Creole English"}
+{"id":"jbo","isIso":"true","display":"Lojban"}
+{"id":"jgo","isIso":"true","display":"Ngomba"}
+{"id":"jmc","isIso":"true","display":"Machame"}
+{"id":"jpr","isIso":"true","display":"Judeo-Persian"}
+{"id":"jrb","isIso":"true","display":"Judeo-Arabic"}
+{"id":"jut","isIso":"true","display":"Jutish"}
+{"id":"jv","isIso":"true","display":"Javanese"}
+{"id":"ka","isIso":"true","display":"Georgian"}
+{"id":"kaa","isIso":"true","display":"Kara-Kalpak"}
+{"id":"kab","isIso":"true","display":"Kabyle"}
+{"id":"kac","isIso":"true","display":"Kachin"}
+{"id":"kaj","isIso":"true","display":"Jju"}
+{"id":"kam","isIso":"true","display":"Kamba"}
+{"id":"kaw","isIso":"true","display":"Kawi"}
+{"id":"kbd","isIso":"true","display":"Kabardian"}
+{"id":"kbl","isIso":"true","display":"Kanembu"}
+{"id":"kcg","isIso":"true","display":"Tyap"}
+{"id":"kde","isIso":"true","display":"Makonde"}
+{"id":"kea","isIso":"true","display":"Kabuverdianu"}
+{"id":"ken","isIso":"true","display":"Kenyang"}
+{"id":"kfo","isIso":"true","display":"Koro"}
+{"id":"kg","isIso":"true","display":"Kongo"}
+{"id":"kgp","isIso":"true","display":"Kaingang"}
+{"id":"kha","isIso":"true","display":"Khasi"}
+{"id":"kho","isIso":"true","display":"Khotanese"}
+{"id":"khq","isIso":"true","display":"Koyra Chiini"}
+{"id":"khw","isIso":"true","display":"Khowar"}
+{"id":"ki","isIso":"true","display":"Kikuyu"}
+{"id":"kiu","isIso":"true","display":"Kirmanjki"}
+{"id":"kj","isIso":"true","display":"Kuanyama"}
+{"id":"kk","isIso":"true","display":"Kazakh"}
+{"id":"kkj","isIso":"true","display":"Kako"}
+{"id":"kl","isIso":"true","display":"Kalaallisut"}
+{"id":"kln","isIso":"true","display":"Kalenjin"}
+{"id":"km","isIso":"true","display":"Khmer"}
+{"id":"kmb","isIso":"true","display":"Kimbundu"}
+{"id":"kn","isIso":"true","display":"Kannada"}
+{"id":"ko","isIso":"true","display":"Korean"}
+{"id":"koi","isIso":"true","display":"Komi-Permyak"}
+{"id":"kok","isIso":"true","display":"Konkani"}
+{"id":"kos","isIso":"true","display":"Kosraean"}
+{"id":"kpe","isIso":"true","display":"Kpelle"}
+{"id":"kr","isIso":"true","display":"Kanuri"}
+{"id":"krc","isIso":"true","display":"Karachay-Balkar"}
+{"id":"kri","isIso":"true","display":"Krio"}
+{"id":"krj","isIso":"true","display":"Kinaray-a"}
+{"id":"krl","isIso":"true","display":"Karelian"}
+{"id":"kru","isIso":"true","display":"Kurukh"}
+{"id":"ks","isIso":"true","display":"Kashmiri"}
+{"id":"ksb","isIso":"true","display":"Shambala"}
+{"id":"ksf","isIso":"true","display":"Bafia"}
+{"id":"ksh","isIso":"true","display":"Colognian"}
+{"id":"ku","isIso":"true","display":"Kurdish"}
+{"id":"kum","isIso":"true","display":"Kumyk"}
+{"id":"kut","isIso":"true","display":"Kutenai"}
+{"id":"kv","isIso":"true","display":"Komi"}
+{"id":"kw","isIso":"true","display":"Cornish"}
+{"id":"kxv","isIso":"true","display":"Kuvi"}
+{"id":"ky","isIso":"true","display":"Kyrgyz"}
+{"id":"la","isIso":"true","display":"Latin"}
+{"id":"lad","isIso":"true","display":"Ladino"}
+{"id":"lag","isIso":"true","display":"Langi"}
+{"id":"lah","isIso":"true","display":"Western Panjabi"}
+{"id":"lam","isIso":"true","display":"Lamba"}
+{"id":"lb","isIso":"true","display":"Luxembourgish"}
+{"id":"lez","isIso":"true","display":"Lezghian"}
+{"id":"lfn","isIso":"true","display":"Lingua Franca Nova"}
+{"id":"lg","isIso":"true","display":"Ganda"}
+{"id":"li","isIso":"true","display":"Limburgish"}
+{"id":"lij","isIso":"true","display":"Ligurian"}
+{"id":"liv","isIso":"true","display":"Livonian"}
+{"id":"lkt","isIso":"true","display":"Lakota"}
+{"id":"lmo","isIso":"true","display":"Lombard"}
+{"id":"ln","isIso":"true","display":"Lingala"}
+{"id":"lo","isIso":"true","display":"Lao"}
+{"id":"lol","isIso":"true","display":"Mongo"}
+{"id":"loz","isIso":"true","display":"Lozi"}
+{"id":"lrc","isIso":"true","display":"Northern Luri"}
+{"id":"lt","isIso":"true","display":"Lithuanian"}
+{"id":"ltg","isIso":"true","display":"Latgalian"}
+{"id":"lu","isIso":"true","display":"Luba-Katanga"}
+{"id":"lua","isIso":"true","display":"Luba-Lulua"}
+{"id":"lui","isIso":"true","display":"Luiseno"}
+{"id":"lun","isIso":"true","display":"Lunda"}
+{"id":"luo","isIso":"true","display":"Luo"}
+{"id":"lus","isIso":"true","display":"Mizo"}
+{"id":"lut","isIso":"true","display":"Lushootseed"}
+{"id":"luy","isIso":"true","display":"Luyia"}
+{"id":"lv","isIso":"true","display":"Latvian"}
+{"id":"lzh","isIso":"true","display":"Literary Chinese"}
+{"id":"lzz","isIso":"true","display":"Laz"}
+{"id":"mad","isIso":"true","display":"Madurese"}
+{"id":"maf","isIso":"true","display":"Mafa"}
+{"id":"mag","isIso":"true","display":"Magahi"}
+{"id":"mai","isIso":"true","display":"Maithili"}
+{"id":"mak","isIso":"true","display":"Makasar"}
+{"id":"man","isIso":"true","display":"Mandingo"}
+{"id":"mas","isIso":"true","display":"Masai"}
+{"id":"mde","isIso":"true","display":"Maba"}
+{"id":"mdf","isIso":"true","display":"Moksha"}
+{"id":"mdh","isIso":"true","display":"Maguindanaon"}
+{"id":"mdr","isIso":"true","display":"Mandar"}
+{"id":"men","isIso":"true","display":"Mende"}
+{"id":"mer","isIso":"true","display":"Meru"}
+{"id":"mfe","isIso":"true","display":"Morisyen"}
+{"id":"mg","isIso":"true","display":"Malagasy"}
+{"id":"mga","isIso":"true","display":"Middle Irish"}
+{"id":"mgh","isIso":"true","display":"Makhuwa-Meetto"}
+{"id":"mgo","isIso":"true","display":"Metaʼ"}
+{"id":"mh","isIso":"true","display":"Marshallese"}
+{"id":"mi","isIso":"true","display":"Māori"}
+{"id":"mic","isIso":"true","display":"Mi’kmaw"}
+{"id":"mid","isIso":"true","display":"Mandaic"}
+{"id":"min","isIso":"true","display":"Minangkabau"}
+{"id":"mk","isIso":"true","display":"Macedonian"}
+{"id":"ml","isIso":"true","display":"Malayalam"}
+{"id":"mn","isIso":"true","display":"Mongolian"}
+{"id":"mnc","isIso":"true","display":"Manchu"}
+{"id":"mni","isIso":"true","display":"Manipuri"}
+{"id":"moh","isIso":"true","display":"Mohawk"}
+{"id":"mos","isIso":"true","display":"Mossi"}
+{"id":"mr","isIso":"true","display":"Marathi"}
+{"id":"mrj","isIso":"true","display":"Western Mari"}
+{"id":"ms","isIso":"true","display":"Malay"}
+{"id":"mt","isIso":"true","display":"Maltese"}
+{"id":"mua","isIso":"true","display":"Mundang"}
+{"id":"mul","isIso":"true","display":"Multiple languages"}
+{"id":"mus","isIso":"true","display":"Mvskoke"}
+{"id":"mwl","isIso":"true","display":"Mirandese"}
+{"id":"mwr","isIso":"true","display":"Marwari"}
+{"id":"mwv","isIso":"true","display":"Mentawai"}
+{"id":"my","isIso":"true","display":"Burmese"}
+{"id":"mye","isIso":"true","display":"Myene"}
+{"id":"myv","isIso":"true","display":"Erzya"}
+{"id":"mzn","isIso":"true","display":"Mazanderani"}
+{"id":"na","isIso":"true","display":"Nauru"}
+{"id":"nan","isIso":"true","display":"Min Nan Chinese"}
+{"id":"nap","isIso":"true","display":"Neapolitan"}
+{"id":"naq","isIso":"true","display":"Nama"}
+{"id":"nb","isIso":"true","display":"Norwegian Bokmål"}
+{"id":"nd","isIso":"true","display":"North Ndebele"}
+{"id":"nds","isIso":"true","display":"Low German"}
+{"id":"ne","isIso":"true","display":"Nepali"}
+{"id":"new","isIso":"true","display":"Newari"}
+{"id":"nez","isIso":"true","display":"Nez Perce"}
+{"id":"ng","isIso":"true","display":"Ndonga"}
+{"id":"nia","isIso":"true","display":"Nias"}
+{"id":"niu","isIso":"true","display":"Niuean"}
+{"id":"njo","isIso":"true","display":"Ao Naga"}
+{"id":"nl","isIso":"true","display":"Dutch"}
+{"id":"nmg","isIso":"true","display":"Kwasio"}
+{"id":"nn","isIso":"true","display":"Norwegian Nynorsk"}
+{"id":"nnh","isIso":"true","display":"Ngiemboon"}
+{"id":"nnp","isIso":"true","display":"Wancho"}
+{"id":"no","isIso":"true","display":"Norwegian"}
+{"id":"nog","isIso":"true","display":"Nogai"}
+{"id":"non","isIso":"true","display":"Old Norse"}
+{"id":"nov","isIso":"true","display":"Novial"}
+{"id":"nqo","isIso":"true","display":"N’Ko"}
+{"id":"nr","isIso":"true","display":"South Ndebele"}
+{"id":"nso","isIso":"true","display":"Northern Sotho"}
+{"id":"nus","isIso":"true","display":"Nuer"}
+{"id":"nv","isIso":"true","display":"Navajo"}
+{"id":"nwc","isIso":"true","display":"Classical Newari"}
+{"id":"ny","isIso":"true","display":"Nyanja"}
+{"id":"nym","isIso":"true","display":"Nyamwezi"}
+{"id":"nyn","isIso":"true","display":"Nyankole"}
+{"id":"nyo","isIso":"true","display":"Nyoro"}
+{"id":"nzi","isIso":"true","display":"Nzima"}
+{"id":"oc","isIso":"true","display":"Occitan"}
+{"id":"oj","isIso":"true","display":"Ojibwa"}
+{"id":"om","isIso":"true","display":"Oromo"}
+{"id":"or","isIso":"true","display":"Odia"}
+{"id":"os","isIso":"true","display":"Ossetic"}
+{"id":"osa","isIso":"true","display":"Osage"}
+{"id":"ota","isIso":"true","display":"Ottoman Turkish"}
+{"id":"otk","isIso":"true","display":"Old Turkish"}
+{"id":"oui","isIso":"true","display":"Old Uighur"}
+{"id":"pa","isIso":"true","display":"Punjabi"}
+{"id":"pag","isIso":"true","display":"Pangasinan"}
+{"id":"pal","isIso":"true","display":"Pahlavi"}
+{"id":"pam","isIso":"true","display":"Pampanga"}
+{"id":"pap","isIso":"true","display":"Papiamento"}
+{"id":"pau","isIso":"true","display":"Palauan"}
+{"id":"pcd","isIso":"true","display":"Picard"}
+{"id":"pcm","isIso":"true","display":"Nigerian Pidgin"}
+{"id":"pdc","isIso":"true","display":"Pennsylvania German"}
+{"id":"pdt","isIso":"true","display":"Plautdietsch"}
+{"id":"peo","isIso":"true","display":"Old Persian"}
+{"id":"pfl","isIso":"true","display":"Palatine German"}
+{"id":"phn","isIso":"true","display":"Phoenician"}
+{"id":"pi","isIso":"true","display":"Pali"}
+{"id":"pl","isIso":"true","display":"Polish"}
+{"id":"pms","isIso":"true","display":"Piedmontese"}
+{"id":"pnt","isIso":"true","display":"Pontic"}
+{"id":"pon","isIso":"true","display":"Pohnpeian"}
+{"id":"pqm","isIso":"true","display":"Wolastoqey"}
+{"id":"prg","isIso":"true","display":"Prussian"}
+{"id":"pro","isIso":"true","display":"Old Provençal"}
+{"id":"ps","isIso":"true","display":"Pashto"}
+{"id":"pt","isIso":"true","display":"Portuguese"}
+{"id":"qu","isIso":"true","display":"Quechua"}
+{"id":"quc","isIso":"true","display":"Kʼicheʼ"}
+{"id":"qug","isIso":"true","display":"Chimborazo Highland Quichua"}
+{"id":"raj","isIso":"true","display":"Rajasthani"}
+{"id":"rap","isIso":"true","display":"Rapanui"}
+{"id":"rar","isIso":"true","display":"Rarotongan"}
+{"id":"rej","isIso":"true","display":"Rejang"}
+{"id":"rgn","isIso":"true","display":"Romagnol"}
+{"id":"rhg","isIso":"true","display":"Rohingya"}
+{"id":"rif","isIso":"true","display":"Riffian"}
+{"id":"rm","isIso":"true","display":"Romansh"}
+{"id":"rn","isIso":"true","display":"Rundi"}
+{"id":"ro","isIso":"true","display":"Romanian"}
+{"id":"rof","isIso":"true","display":"Rombo"}
+{"id":"rom","isIso":"true","display":"Romany"}
+{"id":"rtm","isIso":"true","display":"Rotuman"}
+{"id":"ru","isIso":"true","display":"Russian"}
+{"id":"rue","isIso":"true","display":"Rusyn"}
+{"id":"rug","isIso":"true","display":"Roviana"}
+{"id":"rup","isIso":"true","display":"Aromanian"}
+{"id":"rw","isIso":"true","display":"Kinyarwanda"}
+{"id":"rwk","isIso":"true","display":"Rwa"}
+{"id":"sa","isIso":"true","display":"Sanskrit"}
+{"id":"sad","isIso":"true","display":"Sandawe"}
+{"id":"sah","isIso":"true","display":"Sakha"}
+{"id":"sam","isIso":"true","display":"Samaritan Aramaic"}
+{"id":"saq","isIso":"true","display":"Samburu"}
+{"id":"sas","isIso":"true","display":"Sasak"}
+{"id":"sat","isIso":"true","display":"Santali"}
+{"id":"saz","isIso":"true","display":"Saurashtra"}
+{"id":"sba","isIso":"true","display":"Ngambay"}
+{"id":"sbp","isIso":"true","display":"Sangu"}
+{"id":"sc","isIso":"true","display":"Sardinian"}
+{"id":"scn","isIso":"true","display":"Sicilian"}
+{"id":"sco","isIso":"true","display":"Scots"}
+{"id":"sd","isIso":"true","display":"Sindhi"}
+{"id":"sdc","isIso":"true","display":"Sassarese Sardinian"}
+{"id":"sdh","isIso":"true","display":"Southern Kurdish"}
+{"id":"se","isIso":"true","display":"North Sámi"}
+{"id":"see","isIso":"true","display":"Seneca"}
+{"id":"seh","isIso":"true","display":"Sena"}
+{"id":"sei","isIso":"true","display":"Seri"}
+{"id":"sel","isIso":"true","display":"Selkup"}
+{"id":"ses","isIso":"true","display":"Koyraboro Senni"}
+{"id":"sg","isIso":"true","display":"Sango"}
+{"id":"sga","isIso":"true","display":"Old Irish"}
+{"id":"sgs","isIso":"true","display":"Samogitian"}
+{"id":"shi","isIso":"true","display":"Tachelhit"}
+{"id":"shn","isIso":"true","display":"Shan"}
+{"id":"shp","isIso":"true","display":"Shipibo-Konibo"}
+{"id":"shu","isIso":"true","display":"Chadian Arabic"}
+{"id":"si","isIso":"true","display":"Sinhala"}
+{"id":"sid","isIso":"true","display":"Sidamo"}
+{"id":"sjd","isIso":"true","display":"Kildin Sámi"}
+{"id":"sje","isIso":"true","display":"Pite Sámi"}
+{"id":"sju","isIso":"true","display":"Ume Sámi"}
+{"id":"sk","isIso":"true","display":"Slovak"}
+{"id":"sl","isIso":"true","display":"Slovenian"}
+{"id":"sli","isIso":"true","display":"Lower Silesian"}
+{"id":"sly","isIso":"true","display":"Selayar"}
+{"id":"sm","isIso":"true","display":"Samoan"}
+{"id":"sma","isIso":"true","display":"South Sámi"}
+{"id":"smj","isIso":"true","display":"Lule Sami"}
+{"id":"smn","isIso":"true","display":"Inari Sami"}
+{"id":"sms","isIso":"true","display":"Skolt Sami"}
+{"id":"sn","isIso":"true","display":"Shona"}
+{"id":"snk","isIso":"true","display":"Soninke"}
+{"id":"so","isIso":"true","display":"Somali"}
+{"id":"sog","isIso":"true","display":"Sogdien"}
+{"id":"sq","isIso":"true","display":"Albanian"}
+{"id":"sr","isIso":"true","display":"Serbian"}
+{"id":"srn","isIso":"true","display":"Sranan Tongo"}
+{"id":"srr","isIso":"true","display":"Serer"}
+{"id":"ss","isIso":"true","display":"Swati"}
+{"id":"ssy","isIso":"true","display":"Saho"}
+{"id":"st","isIso":"true","display":"Southern Sotho"}
+{"id":"stq","isIso":"true","display":"Saterland Frisian"}
+{"id":"su","isIso":"true","display":"Sundanese"}
+{"id":"suk","isIso":"true","display":"Sukuma"}
+{"id":"sus","isIso":"true","display":"Susu"}
+{"id":"sux","isIso":"true","display":"Sumerian"}
+{"id":"sv","isIso":"true","display":"Swedish"}
+{"id":"sw","isIso":"true","display":"Swahili"}
+{"id":"swb","isIso":"true","display":"Comorian"}
+{"id":"syc","isIso":"true","display":"Classical Syriac"}
+{"id":"syr","isIso":"true","display":"Assyrian"}
+{"id":"szl","isIso":"true","display":"Silesian"}
+{"id":"ta","isIso":"true","display":"Tamil"}
+{"id":"tcy","isIso":"true","display":"Tulu"}
+{"id":"te","isIso":"true","display":"Telugu"}
+{"id":"tem","isIso":"true","display":"Timne"}
+{"id":"teo","isIso":"true","display":"Teso"}
+{"id":"ter","isIso":"true","display":"Tereno"}
+{"id":"tet","isIso":"true","display":"Tetum"}
+{"id":"tg","isIso":"true","display":"Tajik"}
+{"id":"th","isIso":"true","display":"Thai"}
+{"id":"ti","isIso":"true","display":"Tigrinya"}
+{"id":"tig","isIso":"true","display":"Tigre"}
+{"id":"tiv","isIso":"true","display":"Tiv"}
+{"id":"tk","isIso":"true","display":"Turkmen"}
+{"id":"tkl","isIso":"true","display":"Tokelau"}
+{"id":"tkr","isIso":"true","display":"Tsakhur"}
+{"id":"tlh","isIso":"true","display":"Klingon"}
+{"id":"tli","isIso":"true","display":"Tlingit"}
+{"id":"tly","isIso":"true","display":"Talysh"}
+{"id":"tmh","isIso":"true","display":"Tamashek"}
+{"id":"tn","isIso":"true","display":"Tswana"}
+{"id":"to","isIso":"true","display":"Tongan"}
+{"id":"tog","isIso":"true","display":"Nyasa Tonga"}
+{"id":"tok","isIso":"true","display":"Toki Pona"}
+{"id":"tpi","isIso":"true","display":"Tok Pisin"}
+{"id":"tr","isIso":"true","display":"Turkish"}
+{"id":"tru","isIso":"true","display":"Turoyo"}
+{"id":"trv","isIso":"true","display":"Taroko"}
+{"id":"ts","isIso":"true","display":"Tsonga"}
+{"id":"tsd","isIso":"true","display":"Tsakonian"}
+{"id":"tsi","isIso":"true","display":"Tsimshian"}
+{"id":"tt","isIso":"true","display":"Tatar"}
+{"id":"ttt","isIso":"true","display":"Muslim Tat"}
+{"id":"tum","isIso":"true","display":"Tumbuka"}
+{"id":"tvl","isIso":"true","display":"Tuvalu"}
+{"id":"tw","isIso":"true","display":"Twi"}
+{"id":"twq","isIso":"true","display":"Tasawaq"}
+{"id":"ty","isIso":"true","display":"Tahitian"}
+{"id":"tyv","isIso":"true","display":"Tuvinian"}
+{"id":"tzm","isIso":"true","display":"Central Atlas Tamazight"}
+{"id":"udm","isIso":"true","display":"Udmurt"}
+{"id":"ug","isIso":"true","display":"Uyghur"}
+{"id":"uga","isIso":"true","display":"Ugaritic"}
+{"id":"uk","isIso":"true","display":"Ukrainian"}
+{"id":"umb","isIso":"true","display":"Umbundu"}
+{"id":"und","isIso":"true","display":"Unknown language"}
+{"id":"ur","isIso":"true","display":"Urdu"}
+{"id":"uz","isIso":"true","display":"Uzbek"}
+{"id":"vai","isIso":"true","display":"Vai"}
+{"id":"ve","isIso":"true","display":"Venda"}
+{"id":"vec","isIso":"true","display":"Venetian"}
+{"id":"vep","isIso":"true","display":"Veps"}
+{"id":"vi","isIso":"true","display":"Vietnamese"}
+{"id":"vls","isIso":"true","display":"West Flemish"}
+{"id":"vmf","isIso":"true","display":"Main-Franconian"}
+{"id":"vmw","isIso":"true","display":"Makhuwa"}
+{"id":"vo","isIso":"true","display":"Volapük"}
+{"id":"vot","isIso":"true","display":"Votic"}
+{"id":"vro","isIso":"true","display":"Võro"}
+{"id":"vun","isIso":"true","display":"Vunjo"}
+{"id":"wa","isIso":"true","display":"Walloon"}
+{"id":"wae","isIso":"true","display":"Walser"}
+{"id":"wal","isIso":"true","display":"Wolaytta"}
+{"id":"war","isIso":"true","display":"Waray"}
+{"id":"was","isIso":"true","display":"Washo"}
+{"id":"wbp","isIso":"true","display":"Warlpiri"}
+{"id":"wo","isIso":"true","display":"Wolof"}
+{"id":"wuu","isIso":"true","display":"Shanghainese"}
+{"id":"xal","isIso":"true","display":"Kalmyk"}
+{"id":"xh","isIso":"true","display":"Xhosa"}
+{"id":"xmf","isIso":"true","display":"Mingrelian"}
+{"id":"xnr","isIso":"true","display":"Kangri"}
+{"id":"xog","isIso":"true","display":"Soga"}
+{"id":"yao","isIso":"true","display":"Yao"}
+{"id":"yap","isIso":"true","display":"Yapese"}
+{"id":"yav","isIso":"true","display":"Yangben"}
+{"id":"ybb","isIso":"true","display":"Yemba"}
+{"id":"yi","isIso":"true","display":"Yiddish"}
+{"id":"yo","isIso":"true","display":"Yoruba"}
+{"id":"yrl","isIso":"true","display":"Nheengatu"}
+{"id":"yue","isIso":"true","display":"Cantonese"}
+{"id":"za","isIso":"true","display":"Zhuang"}
+{"id":"zap","isIso":"true","display":"Zapotec"}
+{"id":"zbl","isIso":"true","display":"Blissymbols"}
+{"id":"zea","isIso":"true","display":"Zeelandic"}
+{"id":"zen","isIso":"true","display":"Zenaga"}
+{"id":"zgh","isIso":"true","display":"Tamazight, Standard Moroccan"}
+{"id":"zh","isIso":"true","display":"Chinese"}
+{"id":"zu","isIso":"true","display":"Zulu"}
+{"id":"zun","isIso":"true","display":"Zuni"}
+{"id":"zxx","isIso":"true","display":"No linguistic content"}
+{"id":"zza","isIso":"true","display":"Zaza"}
