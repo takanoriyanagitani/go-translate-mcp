@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/translate-cli/translate-cli
+cmd/translate-mcp/translate-mcp
